@@ -18,7 +18,7 @@
 ![alt text](img/scriptThreadTwo.jpg)
 
 ## Работа скрипта:
-![alt text](img/resultWork.png)
+![alt text](img/resultWork.PNG)
 
 ## 3. Видео работы лабораторной работы:
 https://disk.yandex.ru/i/CAEI4bko4BWYpA
